@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+it makes a directory and a .git folder in which it saves the history of each
+file and commits.
+
+How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
+ it's an intermediate stage which contains files that are chosen to go to the
+ repository, it's somehow like a waiting room, which those who gonna meet the
+ doctor wait there till they go to the doctor's room.
